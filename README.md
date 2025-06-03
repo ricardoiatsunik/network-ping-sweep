@@ -5,7 +5,8 @@ Este projeto contém um script simples escrito em bash para realizar uma varredu
 
 Uso:
 
-1. Edite a variável "rede" dentro do script para refletir a sua rede local. Exemplo:
+1. Edite a variável "rede"
+ Exemplo:
    rede="192.168.1"
 
 2. Torne o script executável:
