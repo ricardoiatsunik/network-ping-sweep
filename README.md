@@ -29,6 +29,3 @@ Requisitos:
 - Comando ping disponível no PATH
 
 
-Objetivo:
-
-Material de estudo pessoal e base para ferramentas em bash.
